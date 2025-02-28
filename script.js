@@ -81,10 +81,10 @@ function checkAuth() {
 
 // Sample categories data
 const categories = [
-    { id: 1, name: 'sekolah', postCount: },
-    { id: 2, name: 'running', postCount:  },
-    { id: 3, name: 'Musik', postCount:  },
-    { id: 4, name: 'all', postCount:  }
+    { id: 1, name: 'sekolah', postCount: 5 },
+    { id: 2, name: 'running', postCount: 3 },
+    { id: 3, name: 'Musik', postCount: 7 },
+    { id: 4, name: 'all', postCount: 15 }
 ];
 
 // Function to create new post
